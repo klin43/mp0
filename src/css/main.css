@@ -1,1 +1,37 @@
 /* Your CSS here. */
+
+body {
+    background-color: white;
+}
+
+.profile {
+    background-color: dimgray;
+    width: 750px;
+    height: 550px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+}
+
+.name {
+    color: white;
+}
+
+.email {
+    color: white;
+    font-style: italic;
+}
+
+.github {
+    font-weight: bold;
+}
+
+.biography {
+    color: white;
+    margin: 20px;
+}
